@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.314c795e.css",
-    "main.js": "./static/js/main.316f960f.js",
+    "main.js": "./static/js/main.80d8421b.js",
     "static/js/453.61387e40.chunk.js": "./static/js/453.61387e40.chunk.js",
     "static/media/festival-raices.png": "./static/media/festival-raices.eec2903143a8fa20cbd1.png",
     "static/media/personas-en-la-niñez-alegres.png": "./static/media/personas-en-la-niñez-alegres.2cab6bd9f6e1411af4d8.png",
@@ -52,11 +52,11 @@
     "static/media/intensidad-por-nivel.PNG": "./static/media/intensidad-por-nivel.3007d92f072ee3d476a8.PNG",
     "index.html": "./index.html",
     "main.314c795e.css.map": "./static/css/main.314c795e.css.map",
-    "main.316f960f.js.map": "./static/js/main.316f960f.js.map",
+    "main.80d8421b.js.map": "./static/js/main.80d8421b.js.map",
     "453.61387e40.chunk.js.map": "./static/js/453.61387e40.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.314c795e.css",
-    "static/js/main.316f960f.js"
+    "static/js/main.80d8421b.js"
   ]
 }
